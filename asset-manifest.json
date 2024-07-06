@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/signos_app/static/css/main.4a23c651.css",
+    "main.js": "/signos_app/static/js/main.0c01d8e3.js",
+    "static/js/453.e2c0e6d8.chunk.js": "/signos_app/static/js/453.e2c0e6d8.chunk.js",
+    "index.html": "/signos_app/index.html",
+    "main.4a23c651.css.map": "/signos_app/static/css/main.4a23c651.css.map",
+    "main.0c01d8e3.js.map": "/signos_app/static/js/main.0c01d8e3.js.map",
+    "453.e2c0e6d8.chunk.js.map": "/signos_app/static/js/453.e2c0e6d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a23c651.css",
+    "static/js/main.0c01d8e3.js"
+  ]
+}
